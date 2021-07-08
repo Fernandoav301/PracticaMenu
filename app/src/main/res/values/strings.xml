@@ -1,0 +1,6 @@
+<resources>
+    <string name="titulo">Planetas en el sistema solar</string>
+    <string name="nombre">Nombre :</string>
+    <string name="desc_breve">Descripcion breve:</string>
+    <string name="app_name">PrimerMenu</string>
+</resources>
